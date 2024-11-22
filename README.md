@@ -20,3 +20,9 @@ iOS Testflight: https://testflight.apple.com/join/WelL04MI
 Android Internal Testing: https://play.google.com/apps/internaltest/4701260173485441168
 
 Android Open Beta: https://play.google.com/apps/testing/com.apptreesoftware.accruent.famis
+
+## AppTree Enterprise
+
+iOS Testflight: https://testflight.apple.com/join/pM537NcJ
+Android Internal Testing: https://play.google.com/apps/internaltest/4700317985749432208
+Android Open Beta: https://play.google.com/apps/testing/com.apptreesoftware.apptree
